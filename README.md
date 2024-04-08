@@ -1,6 +1,6 @@
-## Mental Health Screening Tool Kits
+## Mental Health Screening Tools
 
-Tools from a various metal health screening toolkits.
+Tools from various metal health screening toolkits.
 
   * [Primary Care Depression Tool Kit](Primary%20Care%20Depression%20Tool%20Kit)
 
